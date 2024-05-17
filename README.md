@@ -12,7 +12,8 @@
 
 
 ## 使用方法：
-
+python3 写的
+pip install -r requirement.txt
 streamlit run 1.3.py
 
 ![image](https://github.com/tang51678/Nessus-port-/assets/80816552/e84a099c-7dff-48ac-b650-22d2ecfd0025)
